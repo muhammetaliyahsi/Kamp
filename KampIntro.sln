@@ -17,11 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{54109595-E049-48F5-81EF-64F695BF26DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{17720CB5-7D3C-45C8-865C-A199F0D78A8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{17720CB5-7D3C-45C8-865C-A199F0D78A8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{4E8391F5-19CB-485D-B140-C606B38EA62E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{4E8391F5-19CB-485D-B140-C606B38EA62E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{AD15E48E-5B90-4EB5-9392-3BBC85B2DEFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{AD15E48E-5B90-4EB5-9392-3BBC85B2DEFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{3D102F0F-D905-4237-8FEF-D5AF8B1336DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{AD15E48E-5B90-4EB5-9392-3BBC85B2DEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD15E48E-5B90-4EB5-9392-3BBC85B2DEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD15E48E-5B90-4EB5-9392-3BBC85B2DEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D102F0F-D905-4237-8FEF-D5AF8B1336DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D102F0F-D905-4237-8FEF-D5AF8B1336DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D102F0F-D905-4237-8FEF-D5AF8B1336DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D102F0F-D905-4237-8FEF-D5AF8B1336DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
